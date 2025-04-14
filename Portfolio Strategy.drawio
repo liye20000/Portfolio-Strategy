@@ -195,8 +195,8 @@
         <mxCell id="1VlmSRWmxTNn3Guo2VhC-135" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;分时投资回报率分析&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;按周，月，进行组合投资汇报的排列&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="200" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1VlmSRWmxTNn3Guo2VhC-141" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;累计收益表&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;列出整体组合收益，与单独持有组合中的每个资产做对比（也可以与竞品做对比）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="450" width="180" height="120" as="geometry" />
+        <mxCell id="1VlmSRWmxTNn3Guo2VhC-141" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;累计收益表&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;列出整体组合收益，与单独持有组合中的每个资产做对比。也可以与竞品做对比。整体组合可以标注买卖点，竞品/组合采用买入并只有单一策略&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="435" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1VlmSRWmxTNn3Guo2VhC-144" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="130" y="290" width="340" height="110" as="geometry" />
@@ -309,11 +309,14 @@
         <mxCell id="1VlmSRWmxTNn3Guo2VhC-152" value="Buy TSLA 1.0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1VlmSRWmxTNn3Guo2VhC-145">
           <mxGeometry x="190" y="105.30999999999995" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1VlmSRWmxTNn3Guo2VhC-153" value="Sell APP 1.0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1VlmSRWmxTNn3Guo2VhC-145">
+        <mxCell id="1VlmSRWmxTNn3Guo2VhC-153" value="Sell APPL 1.0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1VlmSRWmxTNn3Guo2VhC-145">
           <mxGeometry x="320" y="14.999999999999943" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1VlmSRWmxTNn3Guo2VhC-147" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;基本功能&lt;/h1&gt;&lt;p&gt;表格设置：&lt;/p&gt;&lt;p&gt;布局颜色设置&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;组合设置：&lt;/span&gt;&lt;/p&gt;&lt;p&gt;启示回测时间&lt;/p&gt;&lt;p&gt;组合输入（10只左右），比例&lt;/p&gt;&lt;p&gt;对比资产输入（1只）&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;再平衡算法选项：&lt;/p&gt;&lt;p&gt;按百分比再平衡&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;其他再平衡算法设置（例如GUBI均线卖出，低于xx买入等）&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="660" width="490" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="1VlmSRWmxTNn3Guo2VhC-154" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
