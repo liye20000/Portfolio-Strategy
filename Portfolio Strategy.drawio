@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="thoeQhLaUIlAeaY37Q_6">
-    <mxGraphModel dx="1069" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1283" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,8 +66,8 @@
             <mxRectangle width="NaN" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1VlmSRWmxTNn3Guo2VhC-79" value="Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="500" y="303" width="120" height="97" as="geometry" />
+        <mxCell id="1VlmSRWmxTNn3Guo2VhC-79" value="组合结构表" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="500" y="326.5" width="120" height="97" as="geometry" />
         </mxCell>
         <mxCell id="1VlmSRWmxTNn3Guo2VhC-80" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="1VlmSRWmxTNn3Guo2VhC-79">
           <mxGeometry y="30" width="120" height="23" as="geometry" />
@@ -123,8 +123,8 @@
             <mxRectangle width="40" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1VlmSRWmxTNn3Guo2VhC-92" value="Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="500" y="180" width="120" height="97" as="geometry" />
+        <mxCell id="1VlmSRWmxTNn3Guo2VhC-92" value="组合分析表" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="500" y="191.5" width="120" height="97" as="geometry" />
         </mxCell>
         <mxCell id="1VlmSRWmxTNn3Guo2VhC-93" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="1VlmSRWmxTNn3Guo2VhC-92">
           <mxGeometry y="30" width="120" height="23" as="geometry" />
@@ -183,23 +183,23 @@
         <mxCell id="1VlmSRWmxTNn3Guo2VhC-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1VlmSRWmxTNn3Guo2VhC-129" target="1VlmSRWmxTNn3Guo2VhC-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1VlmSRWmxTNn3Guo2VhC-129" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;统计表&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;列出测算组合的起止日期，岂止金额，负债&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="40" width="180" height="120" as="geometry" />
+        <mxCell id="1VlmSRWmxTNn3Guo2VhC-129" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;统计表&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;列出测算组合的起止日期，岂止金额，负债&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="38.5" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1VlmSRWmxTNn3Guo2VhC-133" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;组合分析表&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font&gt;列出组合与竞品资产的各项系数对比（回报率，回撤，波动率，夏普比率，Beta）等&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="170" width="180" height="120" as="geometry" />
+        <mxCell id="1VlmSRWmxTNn3Guo2VhC-133" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;组合分析表&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font&gt;列出组合与竞品资产的各项系数对比（回报率，回撤，波动率，夏普比率，Beta）等&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1VlmSRWmxTNn3Guo2VhC-134" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;组合结构表&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;列出组合的构成，每个组成资产的比重，回报率&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="290" width="180" height="120" as="geometry" />
+        <mxCell id="1VlmSRWmxTNn3Guo2VhC-134" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;组合结构表&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;列出组合的构成，每个组成资产的比重，回报率&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="315" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1VlmSRWmxTNn3Guo2VhC-135" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;分时投资回报率分析&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;按周，月，进行组合投资汇报的排列&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="200" width="180" height="120" as="geometry" />
+        <mxCell id="1VlmSRWmxTNn3Guo2VhC-135" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;分时投资回报率分析&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;按周，月，进行组合投资汇报的排列&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="195" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1VlmSRWmxTNn3Guo2VhC-141" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;累计收益表&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;列出整体组合收益，与单独持有组合中的每个资产做对比。也可以与竞品做对比。整体组合可以标注买卖点，竞品/组合采用买入并只有单一策略&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="435" width="180" height="150" as="geometry" />
+        <mxCell id="1VlmSRWmxTNn3Guo2VhC-141" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;累计收益表&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;列出整体组合收益，与单独持有组合中的每个资产做对比。也可以与竞品做对比。整体组合可以标注买卖点，竞品/组合采用买入并只有单一策略&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="460" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1VlmSRWmxTNn3Guo2VhC-144" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="130" y="290" width="340" height="110" as="geometry" />
+          <mxGeometry x="130" y="313.5" width="340" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1VlmSRWmxTNn3Guo2VhC-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1VlmSRWmxTNn3Guo2VhC-144">
           <mxGeometry width="340" height="110" as="geometry" />
@@ -232,7 +232,7 @@
           <mxGeometry x="290" y="60" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1VlmSRWmxTNn3Guo2VhC-145" value="" style="group;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="130" y="435" width="490" height="150" as="geometry" />
+          <mxGeometry x="130" y="460" width="490" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1VlmSRWmxTNn3Guo2VhC-106" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1VlmSRWmxTNn3Guo2VhC-145">
           <mxGeometry width="489.99999999999994" height="150" as="geometry" />
@@ -312,8 +312,8 @@
         <mxCell id="1VlmSRWmxTNn3Guo2VhC-153" value="Sell APPL 1.0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1VlmSRWmxTNn3Guo2VhC-145">
           <mxGeometry x="320" y="14.999999999999943" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1VlmSRWmxTNn3Guo2VhC-147" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;基本功能&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;表格设置：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;布局颜色设置&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;组合设置：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;启示回测时间，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;组合输入（10只左右），比例，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;对比资产输入（1只）&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;算法选项：&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;按时间恢复原始百分比再平衡&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;其他再平衡算法设置（例如GUBI均线卖出，低于xx买入等）（二期内容）&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="660" width="490" height="160" as="geometry" />
+        <mxCell id="1VlmSRWmxTNn3Guo2VhC-147" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;基本功能&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;表格设置：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;布局颜色设置&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;组合设置：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;启示回测时间，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;组合输入（10只左右），比例，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;对比资产输入（1只）&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;算法选项：&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;按时间恢复原始百分比再平衡&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;其他再平衡算法设置（例如GUBI均线卖出，低于xx买入等）（二期内容）&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="470" height="160" as="geometry" />
         </mxCell>
         <mxCell id="1VlmSRWmxTNn3Guo2VhC-154" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="530" width="60" height="30" as="geometry" />
